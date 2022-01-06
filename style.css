@@ -1,0 +1,165 @@
+body{
+    /* align-items: center; */
+    font-family: 'Spline Sans', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+margin-left: 20px;
+}
+#mission-color{
+    color: hotpink;
+}
+.h1-border{
+    font-size: 50px;
+}
+.side-border{
+    border-left: 2px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    margin-right: 5px;
+}
+.link-button{
+    color: whitesmoke;
+    font-weight: 700px;
+    text-decoration: none;
+    text-align: center;
+    background-color: orange;
+    border-radius: 5px;
+    background-position: center;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5px;
+
+}
+.flex-display{
+    display: flex;
+    direction: row;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.image{
+    height: 400px;
+    width: 400px;
+    width: 90%;
+}
+.left-margin{
+    margin-left: 20px;
+
+}
+.paragrapg{
+    width: 90%;
+}
+#scroll{
+    margin-top: 20px;
+}
+.mission-color{
+    color: sandybrown;
+}
+#mission{
+    text-align: center;
+    font-size: 50px;
+}
+.mission{
+    font-size: 30px;
+}
+.flex-display-part1{
+    display: table;
+    background-color: wheat;
+    background-position: center;
+    height: 200px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+ 
+}
+.flex-display-part2{
+    display: table;
+    background-color: coral;
+    background-position: center;
+    height: 200px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+ 
+}
+.flex-display-part3{
+    display: table;
+    background-color: thistle;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+ 
+}
+.illustrator1{
+    height: 100px;
+    width: 100px;
+}
+.paragraph1{
+    width: 50%;
+}
+.third-width{
+    width: 25%;
+    height: 250px;
+    margin-left: 20px;
+}
+.display1-flex{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+}
+.image1{
+    height: 300px;
+    width: 300px;
+    width:70%;
+    margin-left: 20px;
+}
+#half-width{
+    width: 70%;
+    margin-left: 5px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.develop-limits{
+    font-size: 30px;
+}
+#backimg{
+    background-image: url(picture/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 150px;
+}
+#backimg1{
+    background-image: url(picture/shape-1.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding-bottom: 50px;
+}
+.footer-part{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+}
+#mission-1st{
+    color: whitesmoke;
+}
+#mission-2nd{
+    color: hotpink;
+}
+#futarid{
+    background-color: black;
+    padding: 20px;
+}
+#last-section{
+    margin-top: 30px;
+}
+#hardwork{
+    color: whitesmoke;
+    text-align: center;
+}
